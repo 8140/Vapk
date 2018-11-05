@@ -15,7 +15,7 @@ public class App extends Application {
         //测试提价o
     }
 
-    public static String aaa="123213";
+    public static String aaa="33333333";
     @Override
     protected void attachBaseContext(Context base) {
         super.attachBaseContext(base);
