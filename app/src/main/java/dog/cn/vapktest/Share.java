@@ -1,4 +1,6 @@
 package dog.cn.vapktest;
 
-public class Share {
+import android.app.Application;
+
+public class Share extends Application {
 }
