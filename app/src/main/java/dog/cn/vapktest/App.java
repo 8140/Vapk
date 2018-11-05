@@ -12,6 +12,7 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
 //        HermesEventBus.getDefault().init(this);
+        //啊水水a
     }
 
     public static String aaa="123213";
